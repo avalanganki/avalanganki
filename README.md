@@ -12,8 +12,8 @@ I'm a Data Analytics student at Syracuse University's School of Information Stud
 
 | Project | What it is | Tools |
 |---|---|---|
-| [Flow Real Estate AI Studio](LINK) | Responsible AI neighborhood recommender for people relocating to Miami; I co-lead evaluation | Python, MCP, LLMs, Streamlit |
-| [su-housing-rag-chatbot](https://github.com/avalanganki/su-housing-rag-chatbot) | RAG chatbot that answers Syracuse University housing questions using verified data | Python, ChromaDB, OpenAI API, Streamlit |
+| [Flow Real Estate AI Studio]([LINK](https://github.com/Break-Through-Tech/Flow-1B-responsible-ai-prototype-for-personalized-neighborhood-recommendations)) | Responsible AI neighborhood recommender for people relocating to Miami; I co-lead evaluation | Python, MCP, LLMs, Streamlit |
+| [su-housing-rag-chatbot](https://github.com/avalanganki/488_Housing_Chat) | RAG chatbot that answers Syracuse University housing questions using verified data | Python, ChromaDB, OpenAI API, Streamlit |
 | [spotify-trends](https://github.com/avalanganki/spotify-trends) | Analysis of how mood and energy in hit songs shifted from 2000 to 2019 | R, ggplot2, Illustrator |
 
 ## Tech Stack
